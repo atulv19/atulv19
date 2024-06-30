@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=36&pause=500&color=1E90FF&background=00000000&center=true&vCenter=true&width=700&height=80&lines=👋+Hello%2C+There!;💻+Wellcome+in+Atul+Verma+Profile!;✨+Nice+To+Meet+You!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=36&pause=500&color=1E90FF&background=00000000&center=true&vCenter=true&width=700&height=80&lines=👋+Hello%2C+There!;💻+Wellcome+In+Atul+Verma+Profile!;✨+Thank+You+For+Visiting+My+Profile!)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
